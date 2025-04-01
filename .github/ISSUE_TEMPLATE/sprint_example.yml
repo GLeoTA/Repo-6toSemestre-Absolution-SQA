@@ -1,5 +1,5 @@
 name: Scrum Ticket
-description: Crea un nuevo ticket para el backlog de Scrum
+description: Crea un nuevo ticket para el backlog de Scrum.
 title: "[TICKET]: "
 labels: ["backlog"]
 assignees: []
